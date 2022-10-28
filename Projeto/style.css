@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(201, 201, 201);
+}
+
+header{
+    background-color: rgb(185, 52, 165);
+    border: 1px solid white;
+    width: 500px;
+    display: block;
+}
+
+.cabecalho span{
+    color: white;
+}
+
+.opcoes span{
+    color: white;
+    margin-left: 30px;
+}
